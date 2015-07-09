@@ -8,21 +8,13 @@
 
 import UIKit
 import AFNetworking
-import OHHTTPStubs
+
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
-//        OHHTTPStubs.stubRequestsPassingTest({$0.URL!.host == "api.github.com"}) { _ in
-//            // Stub it with our "wsresponse.json" stub file (which is in same bundle as self)
-//            let fixture = OHPathForFile("wsresponse.json", self.dynamicType)
-//            return OHHTTPStubsResponse(fileAtPath: fixture!,
-//                statusCode: 200, headers: ["Content-Type":"application/json"])
-//        }
-        
         
     }
 

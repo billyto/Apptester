@@ -4,65 +4,41 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-Apptester-AFNetworking.xcscheme</key>
+		<key>AFNetworking.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
 		</dict>
-		<key>Pods-Apptester-OHHTTPStubs.xcscheme</key>
+		<key>OHHTTPStubs.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
-		<key>Pods-Apptester.xcscheme</key>
+		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-		</dict>
-		<key>Pods-ApptesterUITests-AFNetworking.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-ApptesterUITests-OHHTTPStubs.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-ApptesterUITests.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>098CB67D46BC31AEDE8C13C1</key>
+		<key>74B11F0647BB2FFF072A03AFD8AF085F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>0CF410C867C6CCB5EBD5C024</key>
+		<key>97305000082F67075102EA461520AA95</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1280D0A13788C26A07846A94</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>36870BE12F526E03614680EE</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>65B105DD7BEF2DCB614CD5E2</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D8ECE2F77E963B7B68EA18EF</key>
+		<key>C03EDFEAEBC7195E8E23E9BF1F5390EC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
